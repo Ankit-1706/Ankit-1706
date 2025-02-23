@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankit-1706&label=Profile%20views&color=0e75b6&style=flat" alt="ankit-1706" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ankit-1706](https://github.com/Ankit-1706)
 
-- 💬 Ask me about **React.js, JavaScript (ES6), Tailwind CSS, CSS, HTML**
+- 💬 Ask me about **Node.js, React.js, JavaScript (ES6), Tailwind CSS, CSS, HTML**
 
 - 📫 How to reach me **ankittelase02@gmail.com**
 
